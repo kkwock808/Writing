@@ -4,8 +4,13 @@ title: About
 permalink: /about
 ---
 
-Kevin W.C. Kwock is currently an exchange researcher in the Photonics Research Group at Ghent University, Belgium. Having spent most of his life in the United States, living in Hawai'i, New Mexico, Ohio, and New York, Kevin is over the moon to be able to carry out an exchange program in Ghent, Belgium. Cheers to adventures and learning experiences that he hopes he will never forget.
+ <img src="{{ site.github.url }}/assets/img/about_me.jpeg">
 
+Kevin W.C. Kwock is currently an exchange researcher in the Photonics Research Group at Ghent University, Belgium. Having spent most of his life in the United States, living in Hawai'i, New Mexico, Ohio, and New York, Kevin is over the moon about his exchange program in Ghent, Belgium. Cheers to this bumbling American as he embarks on adventures and learning experiences that he will never forget.
+
+<br>
+<br>
+<br>
 
 ## Acknowledgement ##
 
